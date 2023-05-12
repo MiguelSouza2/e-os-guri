@@ -1,0 +1,55 @@
+* {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 15px;
+}
+
+nav {
+    border: solid 1px;
+    padding: 20px;
+}
+
+article {
+    border: 1px solid;
+    border-radius: 5px;
+    width: 40%;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 40%;
+}
+
+#span {
+    display: block;
+    float: right;
+    width: 100px;
+    height: 90%;
+    border: solid 1px;
+    overflow: hidden;
+    margin-top: auto;
+}
+#span b{
+    color: red;
+}
+
+#article2 {
+    right: 0px;
+    bottom: 98px;
+    position: absolute;
+    height: 40%;
+}
+
+
+section {
+    border: solid 1px;
+    width: 90%;
+    height: 200px;
+    position: relative;
+}
+
+footer {
+    border: solid 1px;
+    display: block;
+    padding: 20px;
+    
+}
